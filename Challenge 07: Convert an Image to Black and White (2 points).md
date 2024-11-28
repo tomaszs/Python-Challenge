@@ -98,3 +98,5 @@ This task introduces you to image processing, a key skill in Python programming.
 ---
 
 Solving this challenge earns you **2 points**—excellent work! Ready to explore more creative tasks? Keep coding and expanding your skills!
+
+If you spot a mistake in a challenge, please create a merge request to excercise how to use GitHub as well :)
