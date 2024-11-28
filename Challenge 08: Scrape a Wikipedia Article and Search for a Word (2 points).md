@@ -112,4 +112,4 @@ This task introduces you to:
 
 ---
 
-Solving this challenge earns you **3 points**—excellent work! Ready for the next challenge? Keep pushing your Python skills further!
+Solving this challenge earns you **2 points**—excellent work! Ready for the next challenge? Keep pushing your Python skills further!
