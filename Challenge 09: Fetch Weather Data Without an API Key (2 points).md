@@ -99,4 +99,4 @@ This task introduces you to:
 
 ---
 
-Solving this challenge earns you **3 points**—fantastic work! Ready to take your weather scripting skills further? Try adding more features or exploring other public APIs!
+Solving this challenge earns you **2 points**—fantastic work! Ready to take your weather scripting skills further? Try adding more features or exploring other public APIs!
