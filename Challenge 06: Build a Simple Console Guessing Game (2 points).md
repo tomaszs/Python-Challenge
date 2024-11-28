@@ -93,3 +93,5 @@ This task combines fundamental Python concepts into a fun, interactive project:
 ---
 
 Solving this challenge earns you **2 points**—great job! Ready for the next level? Build on this game and explore more possibilities!
+
+If you spot a mistake in a challenge, please create a merge request to excercise how to use GitHub as well :)
