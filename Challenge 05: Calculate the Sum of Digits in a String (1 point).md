@@ -63,3 +63,5 @@ This problem introduces key Python skills:
 ---
 
 Solving this challenge earns you **1 point**—great work! Keep pushing forward to master Python!
+
+If you spot a mistake in a challenge, please create a merge request to excercise how to use GitHub as well :)
