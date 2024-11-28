@@ -30,3 +30,5 @@ def is_palindrome(s):
 print(is_palindrome("radar"))  # Output: True
 print(is_palindrome("hello"))  # Output: False
 ```
+
+Solving this challenge earns you 1 point—great work! Ready to tackle the next one? Keep coding and leveling up your Python skills!
