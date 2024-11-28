@@ -1,4 +1,4 @@
-# Fetch Weather Data Without an API Key
+# Fetch Weather Data
 
 ## The Challenge
 
@@ -100,3 +100,5 @@ This task introduces you to:
 ---
 
 Solving this challenge earns you **2 points**—fantastic work! Ready to take your weather scripting skills further? Try adding more features or exploring other public APIs!
+
+If you spot a mistake in a challenge, please create a merge request to excercise how to use GitHub as well :)
