@@ -113,3 +113,5 @@ This task introduces you to:
 ---
 
 Solving this challenge earns you **2 points**—excellent work! Ready for the next challenge? Keep pushing your Python skills further!
+
+If you spot a mistake in a challenge, please create a merge request to excercise how to use GitHub as well :)
