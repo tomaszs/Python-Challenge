@@ -121,3 +121,5 @@ Now that you’ve solved this challenge, try modifying it:
 ---
 
 Solving this challenge earns you **1 point**—great work! Ready to tackle the next one? Keep coding and leveling up your Python skills!
+
+If you spot a mistake in a challenge, please create a merge request to excercise how to use GitHub as well :)
