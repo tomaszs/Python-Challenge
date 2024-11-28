@@ -102,3 +102,5 @@ This task introduces you to:
 ---
 
 Solving this challenge earns you **2 points**—great work! Ready to explore more advanced image processing tasks? Keep coding and experimenting!
+
+If you spot a mistake in a challenge, please create a merge request to excercise how to use GitHub as well :)
